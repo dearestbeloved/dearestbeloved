@@ -1,16 +1,19 @@
-## Hi there 👋
+## こんにちは!
+<p align="center">
+  -.✦ 𝘴𝘦𝘦𝘪𝘯𝘨 𝘩𝘪𝘮 𝘴𝘢𝘤𝘳𝘪𝘧𝘪𝘤𝘦 𝘩𝘪𝘮𝘴𝘦𝘭𝘧 𝘧𝘰𝘳 𝘮𝘺 𝘱𝘢𝘵𝘩𝘦𝘵𝘪𝘤 𝘭𝘪𝘧𝘦  
+  <br>
+  ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ  
+  <br>
+  ⓘ 24/7 𝘮𝘢𝘵𝘤𝘩𝘢 & 𝘩𝘪𝘮
+</p>
 
 <!--
-**dearestbeloved/dearestbeloved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  -.✦ 𝘴𝘦𝘦𝘪𝘯𝘨 𝘩𝘪𝘮 𝘴𝘢𝘤𝘳𝘪𝘧𝘪𝘤𝘦 𝘩𝘪𝘮𝘴𝘦𝘭𝘧 𝘧𝘰𝘳 𝘮𝘺 𝘱𝘢𝘵𝘩𝘦𝘵𝘪𝘤 𝘭𝘪𝘧𝘦  
+  <br>
+  ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ  
+  <br>
+  ⓘ 24/7 𝘮𝘢𝘵𝘤𝘩𝘢 & 𝘩𝘪𝘮
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
