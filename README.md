@@ -6,7 +6,9 @@
   <br>
   ⓘ 24/7 𝘮𝘢𝘵𝘤𝘩𝘢 & 𝘩𝘪𝘮
 </p>
-
+<p align="center">
+  <img src="barry.gif" width="420"/>
+</p>
 
 <!--
 
