@@ -6,9 +6,7 @@
   <br>
   ⓘ 24/7 𝘮𝘢𝘵𝘤𝘩𝘢 & 𝘩𝘪𝘮
 </p>
-<p align="center">
-  <img src="https://media.tenor.com/16952786939174894378/guts-and-blackpowder-barry.gif" width="400"/>
-</p>
+
 
 <!--
 
